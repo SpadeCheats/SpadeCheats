@@ -1,4 +1,4 @@
--Compatible with all versions of windows 10 and most of 11
+-Compatible with most versions of windows 10 & 11
 
 
 -Join the discord (https://discord.gg/SvaGjR9j)
