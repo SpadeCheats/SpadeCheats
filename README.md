@@ -21,8 +21,11 @@
  -Run the cheat
 
 
+ -Click fortnite
+
+
  
- -Free 2 day key: Free-2lfa
+ -Enter free 2 day key: Free-2lfa
 
 
 
