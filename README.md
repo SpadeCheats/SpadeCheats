@@ -9,7 +9,7 @@
 
 
  
--Toggle stream overlay on and then off again or fov will not work
+-Toggle positioning mode in stream overlay on and then off again or fov will not work
 
 
 
