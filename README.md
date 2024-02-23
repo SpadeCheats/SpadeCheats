@@ -1,7 +1,7 @@
 -Compatible with most versions of windows 10 & 11
 
 
--Join the discord (https://discord.gg/SvaGjR9j)
+-Join the discord (https://discord.gg/SvaGjR9j) THIS IS IMPORTANT!!!
 
 
 
