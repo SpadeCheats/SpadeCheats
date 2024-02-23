@@ -1,4 +1,8 @@
- -Download streamlabs (https://streamlabs.com)
+-Compatible with all versions of windows 10 and most of 11
+
+
+
+-Download streamlabs (https://streamlabs.com)
 
 
  
