@@ -18,11 +18,11 @@
 
 
  
- Allow It to inject into fortnite
-
-
- 
  -Free 2 day key: Free-2lfa
+
+
+
+ -Click allow to inject it into fortnite
 
 
  
